@@ -1,0 +1,68 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* height: 100vh; */
+}
+
+#rgb,
+#hex {
+  width: 100vw;
+  height: 50vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#rgb h1,
+#hex h1 {
+  text-align: center;
+}
+
+#rgb button,
+#hex button {
+  width: 10%;
+  margin: 0 auto;
+  padding: 0.5rem;
+  cursor: pointer;
+  font-weight: 700;
+  background: none;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+}
+
+#rgb #rgbBtn,
+#hex #hexBtn {
+  margin-bottom: 4rem;
+  padding: 1rem;
+}
+
+#rgb button:hover,
+#hex button:hover {
+  color: azure;
+  background-color: black;
+}
+
+#rgb #rgbBtns,
+#hex #hexBtns {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  position: relative;
+}
+
+#rgb #rgbBtns #rgbInput,
+#hex #hexBtns #hexInput {
+  text-align: center;
+  width: fit-content;
+  color: rgb(122, 124, 125);
+}
+
+#rgb #rgbBtns #rgbCopy,
+#hex #hexBtns #hexCopy {
+  width: fit-content;
+  margin-left: 5%;
+}
