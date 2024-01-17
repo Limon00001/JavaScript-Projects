@@ -1,16 +1,15 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
+<!-- [![Youtube][youtube-shield]][youtube-url] -->
+[![GitHub][github-shield]][github-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/hack-programming-hero">Hack Programming Hero - DOM Project Tutorial for Beginners</a></h3>
+  <h3 align="left"><a>DOM Project</a></h3>
 
-Complete project tutorial showing different applications of Document Object Model (DOM) -
+<br />
 
-[![View on Youtube](http://img.youtube.com/vi/_WuDDnZMRiE/0.jpg)](http://www.youtube.com/watch?v=_WuDDnZMRiE)
+![Dom](http://img.youtube.com/vi/_WuDDnZMRiE/0.jpg)
 
 <!-- TABLE OF CONTENTS -->
 
@@ -27,7 +26,7 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/learnwithsumit/hack-programming-hero.git
+   git clone https://github.com/Limon00001/JavaScript-Projects/tree/master/DOM%202
    ```
 2. Open index.html file with VS Code live server plugin.
 
@@ -35,19 +34,15 @@ Please follow the below instructions to run this project in your machine:
 
 ## Contact
 
-Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
+Monayem Hossain Limon - [limonhossain82@gmail.com](mailto:limonhossain82@gmail.com)
 
-Project Link: [https://github.com/learnwithsumit/hack-programming-hero](https://github.com/learnwithsumit/hack-programming-hero)
+Project Link: [https://github.com/Limon00001/JavaScript-Projects/tree/master/DOM%202](https://github.com/Limon00001/JavaScript-Projects/tree/master/DOM%202)
 
-Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/LearnwithSumit
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
+[linkedin-url]: https://linkedin.com/in/monayem-hossain-limon
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555
+[github-url]: https://github.com/in/Limon00001
